@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#editor {
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 200px;
+}
+
+button {
+    margin-right: 5px;
+}
